@@ -12,6 +12,7 @@ public class CustomerTest
         secondCustomer.setAddress("Bob Street");
         secondCustomer.setCustomerNumber(123);
         secondCustomer.setMailingList(false);
+
         System.out.println();
         System.out.println(secondCustomer);
     }
